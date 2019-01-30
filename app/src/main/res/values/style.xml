@@ -3,7 +3,7 @@
 	<style name="demoStyle">
 	<item name="android:textColor">#ff00ff00</item>
 	<item name="android:background">#ffffffff</item>
-	<item name="android:textSize">20pt</item>
+	<item name="android:textSize">40sp</item>
 	<item name="android:gravity">center</item>
 	</style>
 </resources>
