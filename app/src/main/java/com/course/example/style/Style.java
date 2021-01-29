@@ -15,7 +15,7 @@ public class Style extends Activity {
         
         colors = (TextView)findViewById(R.id.colored);
         
-        int color = getResources().getColor(R.color.orange);
+        int color = getResources().getColor(R.color.orange, null);
 		colors.setTextColor(color);
 		colors.setText("Hello World");
 

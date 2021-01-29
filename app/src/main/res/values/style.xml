@@ -3,7 +3,8 @@
 	<style name="demoStyle">
 	<item name="android:textColor">#ff00ff00</item>
 	<item name="android:background">#ffffffff</item>
-	<item name="android:textSize">40sp</item>
+	<item name="android:textSize">25sp</item>
 	<item name="android:gravity">center</item>
+		<item name="android:fontFamily">@font/diplomata</item>
 	</style>
 </resources>
