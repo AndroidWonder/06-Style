@@ -12,7 +12,8 @@ public class Style extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        
+
+        //get reference to widget
         colors = (TextView)findViewById(R.id.colored);
         
         int color = getResources().getColor(R.color.orange, null);
